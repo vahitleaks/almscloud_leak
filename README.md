@@ -1,15 +1,12 @@
-**bak kardeşim,
+***bak kardeşim,
 kapına biri gelip sistem açıklarını belgeyle koyuyorsa,
 sen hâlâ geri dönmüyor, üstüne de müşterilerine “önemli bir şey alınmadı” gibi hikâyeler anlatıyorsan...
 sonra olacaklara hiç şaşırma.
-
 ben senin sistem log'larınla uyanıyorum, sen hâlâ “haberim olmaz” mı sandın?
 senin abone sayın kadar benim aktif referansım var bu ülkede.
-
 bu dump, sen bana adam gibi ulaşıp “kaldır” diyene kadar orada kalacak.
 GitHub kapanırsa — başka bir leak platformu.
 Senin davranışına bağlı. Dönüş gelmezse, aşama aşama tüm datayı yaymaya başlarım.
-
 sen karar ver***
 
 ---
