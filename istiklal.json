@@ -1,0 +1,20 @@
+HTTP/1.1 302 Found
+Server: openresty/1.25.3.1
+Date: Wed, 14 May 2025 03:32:18 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 158
+Connection: keep-alive
+Cache-Control: private, no-store, s-maxage=0
+Location: /Account/Login?ReturnUrl=%2fUser%2fSearch
+Set-Cookie: .ASPXAUTH=E62FE5B71487E71683D45649C75FBCCBF5DC9A46291D87A397172078776F85E65F269D9BEF1A767295A05EFDDB3077052B9656B7405DFDE448B21254C66FD9823C93E6CE4B11CF4DA9D349F23B57EB720DFC45E94E69B7C896CDE589BC03C7D2BE721A03714D1944C610A4634A31B3686D0A9C1E13C927340F98265E147095210480DD75; path=/; secure; HttpOnly; SameSite=None
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Origin: https://s3.cloud.ngn.com.tr
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+X-Forwarded-Host: istiklal.almscloud.com
+X-Forwarded-Port: 443
+X-Forwarded-Scheme: https
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="/Account/Login?ReturnUrl=%2fUser%2fSearch">here</a>.</h2>
+</body></html>
